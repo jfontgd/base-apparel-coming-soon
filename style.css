@@ -97,6 +97,11 @@ input {
   border: none;
   outline: none;
   width: 100%;
+  background: transparent;
+}
+::placeholder {
+  font-family: 'Josefin Sans', sans-serif;
+  color: hsl(0, 74%, 74%;
 }
 .red-border {
   border: 2px solid hsl(0, 93%, 68%);
