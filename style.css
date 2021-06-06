@@ -87,7 +87,7 @@ form {
 .submit:hover {
   background: hsl(0, 80%, 86%);
 }
-input::placeholder {
+::placeholder {
   color: gainsboro;
   font-family: 'Josefine Sans', san-serif;
 }
