@@ -101,7 +101,8 @@ input {
 }
 ::placeholder {
   font-family: 'Josefin Sans', sans-serif;
-  color: hsl(0, 74%, 74%;
+  color: hsla(0, 80%, 86%, 0.842);
+  font-size: 1.5rem;
 }
 .red-border {
   border: 2px solid hsl(0, 93%, 68%);
